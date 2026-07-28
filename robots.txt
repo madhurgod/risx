@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://madhurgod.github.io/risx/sitemap.xml
+Sitemap: http://www.risxportal.2bd.net/sitemap.xml
